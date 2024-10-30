@@ -7,8 +7,8 @@ public class karthick {
     public static void add() {
         System.out.println("Helloo Karthick 1");
     }
-    public static void two() {
-        System.out.println("Helloo Karthick 2");
+    public static void three() {
+        System.out.println("Helloo Karthick 3");
     }
 
 
